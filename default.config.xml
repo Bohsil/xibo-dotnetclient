@@ -14,9 +14,9 @@
   <RequiredFilesFile>requiredFiles.xml</RequiredFilesFile>
   <VideoRenderingEngine>WindowsMediaPlayer</VideoRenderingEngine>
   <LibraryPath>DEFAULT</LibraryPath>
-  <ServerKey>yourserverkey</ServerKey>
+  <ServerKey>qz2tU5Y0</ServerKey>
   <DisplayName>COMPUTERNAME</DisplayName>
-  <ServerUri></ServerUri>
+  <ServerUri>https://emanuelschool.xibo.co.uk/</ServerUri>
   <ProxyUser></ProxyUser>
   <ProxyPassword></ProxyPassword>
   <ProxyDomain></ProxyDomain>
